@@ -1,3 +1,3 @@
-# pythonista
+# Pythonista
 
-Pythonista 001 - Algorithm to print a pyramind of a string character
+Pythonista 001 - Algorithm to print a pyramid of a string character
