@@ -1,7 +1,7 @@
 """
 Author : RyuCoder
 Website: http://ryucoder.in/
-Purpose : Algorithm to print a pyramind of a string character
+Purpose : Algorithm to print a pyramid of a string character
 Problems with the code: None
 Notes: String for the pattern must contain a single character 
 for the pyramid to look good.
